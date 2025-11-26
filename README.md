@@ -1,2 +1,2 @@
-# assessment
+gyaha-specが作った
 あなたのいいところ診断ゲーム
